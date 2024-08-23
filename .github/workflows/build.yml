@@ -47,5 +47,6 @@ jobs:
           prerelease: false
           title: "CI"
           files: |
-            build/libs/*.*
+            paper/build/libs/*.*
+            velocity/build/libs/*.*
             project.tar
